@@ -1,5 +1,5 @@
 <img
-  src="https://user-images.githubusercontent.com/385462/234949121-4b57c12a-6ece-41bc-b053-127e0bc4eb37.png"
+  src="https://user-images.githubusercontent.com/385462/235004590-9c97b36f-656d-4050-9af6-100d05ee0a6f.png"
   alt="Forest Academy Logo"
   style="float: left; z-index: -1; position: absolute;">
 

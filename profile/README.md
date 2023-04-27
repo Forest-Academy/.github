@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/385462/234949121-4b57c12a-6ece-41bc-b053-127e0bc4eb37.png" alt="Forest Academy Logo" style="width: 50%; height: auto; display: block; margin-left: auto; margin-right: auto; text-align: center;">
+<img src="https://user-images.githubusercontent.com/385462/234949121-4b57c12a-6ece-41bc-b053-127e0bc4eb37.png" alt="Forest Academy Logo" style="width: 50%; height: auto; text-align: center;">
 
 <h1 style="position: relative; margin-top: -20em;">Forest Academy</h1>
 

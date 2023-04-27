@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/385462/234949121-4b57c12a-6ece-41bc-b053-127e0bc4eb37.png" alt="Forest Academy Logo" style="width: 50%; height: auto; display: block; margin-left: auto; margin-right: auto; text-align: center;">
+<img src="https://user-images.githubusercontent.com/385462/234949121-4b57c12a-6ece-41bc-b053-127e0bc4eb37.png" alt="Forest Academy Logo" style="width: 50%; height: auto; display: block; margin-bottom: -10em; margin-left: auto; margin-right: auto; text-align: center;">
 
-<h1 style="z-index: 1; margin-top: -12em;">Forest Academy</h1>
+# Forest Academy
 
 Welcome to Forest Academy, a homeschool co-op recognized for excellence by Baltimore County Public Schools (BCPS). Our student-led approach to educational enrichment provides a place where each student's passions and interests are woven throughout individualized curriculums.
 

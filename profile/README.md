@@ -1,5 +1,5 @@
 <div style="float: left; z-index: -1; position: absolute; margin: -10em;">
-  ![Forest Academy Logo](https://user-images.githubusercontent.com/385462/234949121-4b57c12a-6ece-41bc-b053-127e0bc4eb37.png)
+  <img src="https://user-images.githubusercontent.com/385462/234949121-4b57c12a-6ece-41bc-b053-127e0bc4eb37.png" alt="Forest Academy Logo">
 </div>
 
 # Forest Academy

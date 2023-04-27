@@ -23,6 +23,6 @@ For more information about the school, or to verify students or faculty for educ
 * Phone: 410-212-9066
 
 ---
-<footer style="font-size: 0.25em; margin-top: 1em;">
-© 2020-2023 Forest Academy. All rights reserved.
+<footer>
+<p  style="font-size: 0.25em; margin-top: 1em;">© 2020-2023 Forest Academy. All rights reserved.</p>
 </footer>

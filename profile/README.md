@@ -24,7 +24,6 @@ For more information about the school, or to verify students or faculty for educ
 
 ---
 
-<footer>
+<footer style="font-size: smaller;">
   © 2020-2023 Forest Academy. All rights reserved.
-  <span style="float: right; text-align: right;">Pikesville, MD</span>
 </footer>

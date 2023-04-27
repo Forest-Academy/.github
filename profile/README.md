@@ -24,7 +24,5 @@ For more information about the school, or to verify students or faculty for educ
 
 ---
 <footer>
-<small>
-© 2020-2023 Forest Academy. All rights reserved.
-</small>
+<sub>© 2020-2023 Forest Academy. All rights reserved.</sub>
 </footer>

@@ -22,5 +22,4 @@ For more information about the school, or to verify students or faculty for educ
 * Email: pikesvillehomeschool@gmail.com
 * Phone: 410-212-9066
 
----
-<footer><p style="font-size: xx-small;">© 2020-2023 Forest Academy. All rights reserved.</p></footer>
+<footer><p style="font-size: 0.5em;">© 2020-2023 Forest Academy. All rights reserved.</p></footer>
